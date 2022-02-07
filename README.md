@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk4803&theme=dark" align="center">
 </p>
 <p align="center">
-<h3><strong> Github Stats </strong></h3>
+<h3 style="text-align: center"><strong> Github Stats </strong></h3>
 </p>
 <br>
 <p align="center">
