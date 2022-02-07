@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 <!--
@@ -15,12 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk4803&theme=dark" align="center">
-</p>
-<p align="center"><h3>Github Stats</h3</p>
+<h3>Github Stats</h3>
 <br>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sk4803&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center">
-
 </p>
+
+</div>
