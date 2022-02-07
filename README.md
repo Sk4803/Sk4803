@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Sk4803&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center">
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sk4803&theme=nord_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sk4803&theme=monokai">
 
 </div>
