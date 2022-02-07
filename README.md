@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk4803&theme=dark" align="center">
 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Sk4803&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center"/>
 
+</p>
