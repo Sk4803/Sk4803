@@ -1,6 +1,5 @@
 <div align="center">
-  <h2>Hi there 👋
-  I am Suryakant</h2>
+  <h2>Hi there, I am Suryakant 👋</h2>
 
 <!--
 **Sk4803/Sk4803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
