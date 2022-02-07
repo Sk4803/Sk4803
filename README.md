@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk4803&theme=dark" align="center">
 </p>
-<p align="center">
-<h3>Github Stats</h3>
-</p>
+<p align="center"><h3>Github Stats</h3</p>
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sk4803&show_icons=true&theme=gotham" alt="github stats" width="45%" align="center">
