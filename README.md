@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <h3> My Github Summary </h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sk4803&theme=monokai">
-
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Sk4803&custom_title=My%20Github%20Activity%20Graph&hide_border=true">
 
 </div>
