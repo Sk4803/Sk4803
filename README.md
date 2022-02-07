@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sk4803&theme=dark)](https://git.io/streak-stats)
+<img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sk4803&theme=dark)](https://git.io/streak-stats)">
 </p>
